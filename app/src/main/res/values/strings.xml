@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coins</string>
+    <string name="popular">Popular</string>
+    <string name="favourite">Favourite</string>
+    <string name="az_up">A-Z, Up</string>
+    <string name="az_down">A-Z, Down</string>
+    <string name="value_up">Value, Up</string>
+    <string name="value_down">Value, Down</string>
+    <string name="error">Error</string>
+    <string name="sort">Sort</string>
+    <string name="coin">Coin:</string>
+</resources>

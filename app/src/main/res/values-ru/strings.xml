@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coins</string>
+    <string name="popular">Популярные</string>
+    <string name="favourite">Избранные</string>
+    <string name="az_up">По алфавиту, по возрастанию </string>
+    <string name="az_down">По алфавиту, по убыванию </string>
+    <string name="value_up">По значению, по возрастанию </string>
+    <string name="value_down">По значени, по убыванию </string>
+    <string name="error">Ошибочка</string>
+    <string name="sort">Сортировка</string>
+    <string name="coin">Текущая монетка:</string>
+</resources>
